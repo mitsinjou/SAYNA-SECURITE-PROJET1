@@ -17,4 +17,4 @@ Comme tous les projets que j'upladerai en ligne pour Sayna jusqu'ici, il y a a v
 
 Ce projet traite de la sécurité dans le cadre de la navigation sur Internet. 
 
-Sont traités les différentes méthodes et outils disponibles à cet effet. Entre autres choses, sont traités dans ce projet les méthodes pour éviter les phishing, renforcement de la sécurité des comptes personnels et profesionnels.
+Sont traités les différentes méthodes et outils disponibles à cet effet. Entre autres choses, sont traités dans ce projet les méthodes pour éviter les phishing, renforcement de la sécurité des comptes personnels et profesionnels. La confidentialité sur internet est aussi abordé.
